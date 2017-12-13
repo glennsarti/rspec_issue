@@ -1,0 +1,4 @@
+fixtures:
+  symlinks:
+    rspecissue: "#{source_dir}"
+    testmodule: "#{source_dir}/spec/fixtures/testmodule"
